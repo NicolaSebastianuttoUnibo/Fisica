@@ -28,3 +28,29 @@
 - omega: $\omega\$
 - nabla: $\nabla\$ (rotore, operatore nabla)
 
+## Operations
+
+
+- minore o uguale: $x \le y $
+- maggiore o uguale: $x \ge y $
+- potenza, apice: $x^{n}$
+- pedice: $x_{n}$
+- coniugato: $\overline{x}$
+- anflesso: $\hat{x}$
+- tilda: $\tilde{x}$
+- frazione: $\frac{a}{b}$
+- derivata parziale: $\frac{\partial f}{\partial x}$
+- derivata parziale bella: $\displaystyle \frac{\partial f}{\partial x}$
+- binomiale: $\binom{n}{k}$
+- span: $\langle \rangle$
+- valore assoluto: $|A|$
+- integale $\left[\int_{\-infty}^{\infty} f(x) \; dx\right]$
+- sommmatoria: $\sum_{x = a}^{b} f(x)$
+- prodottoria: $\prod_{x = a}^{b} f(x)$
+- limite: $\displaystyle \lim_{x \to \infty} f(x)$
+
+
+
+
+
+
