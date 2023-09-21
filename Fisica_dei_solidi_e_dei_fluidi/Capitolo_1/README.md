@@ -49,7 +49,7 @@ $p,i=-\rho g_i$
 - S: lunghezza totale del cubo
 
 
-$p_ATM A+\rho_F h_F gA$ spinta di Archimede
+$p_{ATM} A+\rho_F h_F gA$ spinta di Archimede
 
 $\rho_F h_F \cancel{gA}=\rho_S h_S \cancel{gA}$
 
