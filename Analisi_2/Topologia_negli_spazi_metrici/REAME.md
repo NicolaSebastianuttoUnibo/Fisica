@@ -7,7 +7,7 @@ Topologia $\to$aperto/chiuso
 spazi metrici $\to$distanza fra punti nell'insieme X
 
 * Def:(spazio metrico) 
-$(X,d) con d:X\times X \to [0,\infty [$
+$(X,d) con d:X\times X \Rightarrow [0,\infty [$
 
 con le seguenti proprietà
 $\forall x,y,z \in \mathbb{R}$
@@ -15,7 +15,7 @@ $\forall x,y,z \in \mathbb{R}$
 2. $d(x,y)=d(y,x)$
 3. $d(x,y) \le d(x,z)+d(z,x)$
 
-* Modello
+** Modello
 $X=\mathbb{R}; d(x,y)=|x-y|; \mathbb{R} spazio euclideo$
 1. $|x-y|=0 \Leftrightarrow x-y=0 \Leftrightarrow x=y$
 2. $|x-y|=|y-x|$
@@ -29,8 +29,6 @@ $
 \item \displaystyle b) d_2 (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^2\right)^{1/2}) 
 \item \displaystyle c) d_p (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) 
 \item \displaystyle d) d_{\infty} (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) 
-
-
 
 \end{enumerate}
 
