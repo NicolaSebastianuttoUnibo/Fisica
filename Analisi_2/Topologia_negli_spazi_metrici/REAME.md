@@ -1,6 +1,6 @@
 # Topologia negli spazi metrici
 
-## Lezione1 ()()()()()()()()()
+## Lezione1 ()()()()()()()()()ultima
 
 Topologia negli spazi metrici
 Topologia $\to$aperto/chiuso
