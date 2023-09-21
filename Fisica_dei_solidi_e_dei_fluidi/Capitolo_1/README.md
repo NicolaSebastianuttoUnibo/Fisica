@@ -6,9 +6,9 @@
 
 ![densita](densita.png)
 
-$\Delta\V_0$ viene chiamato minimo volume elementare
+$\Delta V_0$ viene chiamato minimo volume elementare
 
-$L=|\frac{\rho}{frac{d\rho}{dx}}|$
+$L=|\frac{\rho}{\frac{d\rho}{dx}}|$
 
 
 ### Differenze ed analogie tra solidi e fluidi
