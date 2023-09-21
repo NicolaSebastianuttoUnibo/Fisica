@@ -21,9 +21,9 @@ Nelle forse normali applicate in tutto l corpo (pressione): solidi e fluidi si c
 
 ### Legge di Stevino
 
-$p(z)*dx*dy=p(z+dz)dx dy+\rho*g*dx*dy*dz$
+$p(z)dxdy=p(z+dz)dx dy+\rho g dxdydz$
 
-$(p(z+dz)-p(z))*dx*dy=-\rho*g*dx*dy*dz$
+$(p(z+dz)-p(z))dxdy=-\rho g dxdydz$
 
 $\frac{\partial p}{\partial z}=-\rho g$  legge di Stevino
 
@@ -33,17 +33,17 @@ $\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g)
 
 oppure
 
-$$\left[\begin{flushleft}{ll} 
+$$\begin{flushleft}\left[\begin{array}{ll} 
 x=x_1\\ 
 y=x_2\\
 z=x_3
-\end{flushleft}\right]$$
+\end{array}\right]\end{flushleft}$$
 
 $\frac{\partial p}{\partial x_i}=-\rho g_i$   
 
 oppure
 
-$p,i=-\rho*g_i$
+$p,i=-\rho g_i$
 ### Spinta di archimede
 
 ### Vasi communicanti
