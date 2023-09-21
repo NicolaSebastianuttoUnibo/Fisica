@@ -21,23 +21,28 @@ Nelle forse normali applicate in tutto l corpo (pressione): solidi e fluidi si c
 
 ### Legge di Stevino
 
-$p(z)dx dy=p(z+dz)dx dy+\rho g dx dy dz$
+$p(z)dx dy=p(z+dz)dx dy+\rho g {dx} {dy}{dz}$
 
-$(p(z+dz)-p(z))dx dy=-\rho g dx dy dz$
+$(p(z+dz)-p(z))dx dy=-\rho g {dx} {dy}{dz}$
 
 $\frac{\partial p}{\partial z}=-\rho g$  legge di Stevino
 
 CASO GENERALE:
 
-$\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g) \to asse x rivolta verso l'alto$
+$\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g) \to$ asse x rivolta verso l'alto
+
 oppure
-\left(\begin{array}{cc} 
+
+$\left(\begin{array}{cc} 
 x=x_1\\ 
 y=x_2\\
 z=x_3
-\end{array}\right)
+\end{array}\right)$
+
 $\frac{\partial p}{\partial x_i}=-\rho g_i$   
+
 oppure
+
 $p,i=-\rho g_i$
 ### Spinta di archimede
 
