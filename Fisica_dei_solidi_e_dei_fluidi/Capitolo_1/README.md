@@ -35,11 +35,11 @@ oppure
 $$
 \begin{align*}
 \left[
-\begin{array}{l}
+\begin{bmatrix}
 x = x_1 \\
 y = x_2 \\
 z = x_3
-\end{array}
+\end{bmatrix}
 \right]
 \end{align*}
 $$
