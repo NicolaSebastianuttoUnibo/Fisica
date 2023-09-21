@@ -21,9 +21,9 @@ Nelle forse normali applicate in tutto l corpo (pressione): solidi e fluidi si c
 
 ### Legge di Stevino
 
-$p(z)*dx*dy=p(z+dz)dx dy+\rho g*dx*dy*dz$
+$p(z)*dx*dy=p(z+dz)dx dy+\rho*g*dx*dy*dz$
 
-$(p(z+dz)-p(z))*dx*dy=-\rho g*dx*dy*dz$
+$(p(z+dz)-p(z))*dx*dy=-\rho*g*dx*dy*dz$
 
 $\frac{\partial p}{\partial z}=-\rho g$  legge di Stevino
 
