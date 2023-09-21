@@ -32,12 +32,17 @@ CASO GENERALE:
 $\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g) \to$ asse x rivolta verso l'alto
 
 oppure
-
-$$\begin{flushleft}\left[\begin{array}{ll} 
-x=x_1\\ 
-y=x_2\\
-z=x_3
-\end{array}\right]\end{flushleft}$$
+$$
+\begin{align*}
+\left[
+\begin{array}{l}
+x = x_1 \\
+y = x_2 \\
+z = x_3
+\end{array}
+\right]
+\end{align*}
+$$
 
 $\frac{\partial p}{\partial x_i}=-\rho g_i$   
 
