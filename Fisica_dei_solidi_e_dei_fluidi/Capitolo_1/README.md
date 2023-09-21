@@ -33,11 +33,11 @@ $\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g)
 
 oppure
 
-$$\left[\begin{array}{l} 
+$$\left[\begin{flushleft}{ll} 
 x=x_1\\ 
 y=x_2\\
 z=x_3
-\end{array}\right]$$
+\end{flushleft}\right]$$
 
 $\frac{\partial p}{\partial x_i}=-\rho g_i$   
 
