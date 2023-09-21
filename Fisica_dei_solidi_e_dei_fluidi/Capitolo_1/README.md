@@ -31,18 +31,10 @@ CASO GENERALE:
 
 $\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g) \to$ asse x rivolta verso l'alto
 
-oppure
-$$
-\begin{align*}
-\left[
-\begin{bmatrix}
-x = x_1 \\
-y = x_2 \\
-z = x_3
-\end{bmatrix}
-\right]
-\end{align*}
-$$
+- $x = x_1 $
+- $y = x_2 $
+- $z = x_3 $
+
 
 $\frac{\partial p}{\partial x_i}=-\rho g_i$   
 
