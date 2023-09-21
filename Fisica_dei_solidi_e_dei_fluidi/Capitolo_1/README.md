@@ -49,20 +49,20 @@ $p,i=-\rho g_i$
 - S: lunghezza totale del cubo
 
 
-$p_ATM A+\rho_F h_F gA spinta di Archimede
+$p_ATM A+\rho_F h_F gA$ spinta di Archimede
 
-$\rho_F h_F \cancel{gA}=\rho_S h_S \cancel{gA}
+$\rho_F h_F \cancel{gA}=\rho_S h_S \cancel{gA}$
 
 $h_S-h_F=hS \left(1-\frac{\rho_S}{\rho_F}\right)$
 
 ### Vasi communicanti
 
-$p_A=p_B=p_ATM$
+$p_A=p_B=p_{ATM}$
 
-$\displaystyle p_A-p_B=p_ATM \to \int_{A}^{B} \nabla ds$
+$\displaystyle p_A-p_B=p_{ATM} \to \int_{A}^{B} \nabla ds$
 
 applicando la legge di Stevino si ottiene
 
-$\displaystyle \int_{A}^{B} \rho g*dz =\rho g (z_A-z_B)=0$
+$\displaystyle \int_{A}^{B} \rho gdz =\rho g (z_A-z_B)=0$
 
 $\rho , g \neq 0 \to z_A-z_B=0$
