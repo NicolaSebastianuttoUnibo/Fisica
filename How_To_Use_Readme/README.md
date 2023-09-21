@@ -44,7 +44,7 @@
 - binomiale: $\binom{n}{k}$
 - span: $\langle \rangle$
 - valore assoluto: $|A|$
-- integale $\left[\int_{\-infty}^{\infty} f(x) \; dx\right]$
+- integale $\left[\int_{-\infty}^{\infty} f(x)dx\right]$
 - sommmatoria: $\sum_{x = a}^{b} f(x)$
 - prodottoria: $\prod_{x = a}^{b} f(x)$
 - limite: $\displaystyle \lim_{x \to \infty} f(x)$
