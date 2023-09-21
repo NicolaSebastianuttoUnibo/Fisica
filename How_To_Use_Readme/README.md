@@ -40,7 +40,7 @@
 - tilda: $\tilde{x}$
 - frazione: $\frac{a}{b}$
 - derivata parziale: $\frac{\partial f}{\partial x}$
-- derivata parziale bella: $\displaystyle \frac{\partial f}{\partial x}$
+- derivata parziale + stilosa: $\displaystyle \frac{\partial f}{\partial x}$
 - binomiale: $\binom{n}{k}$
 - span: $\langle \rangle$
 - valore assoluto: $|A|$
