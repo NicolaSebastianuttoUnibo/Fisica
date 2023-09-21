@@ -16,10 +16,27 @@ $\displaystyle \rho (p)=\lim_{p' \to p}\rho (p')$
 
 ### Differenze ed analogie tra solidi e fluidi
 
-Forza di taglio  e pressione
+Nelle forze di taglio: ssolidi e fluidi si comportano in modo diverso
+Nelle forse normali applicate in tutto l corpo (pressione): solidi e fluidi si comportano allo stesso modo
 
 ### Legge di Stevino
 
+$p(z)dx dy=p(z+dz)dx dy+\rho g dx dy dz$
+
+$(p(z+dz)-p(z))dx dy=-\rho g dx dy dz$
+
+$\frac{\partial p}{\partial z}=-\rho g$  legge di Stevino
+
+CASO GENERALE:
+
+$\overrightarrow{\nabla}p=-p\overrightarrow{g}$ con $\overrightarrow{g}=(0,0,-g) &rarr asse x rivolta verso l'alto$
+oppure
+$[[x=x_1],
+  [y=x_2],
+  [z=x_3] ]$
+$\frac{\partial p}{\partial x_i}=-\rho g_i$   
+oppure
+$p,i=-\rho g_i$
 ### Spinta di archimede
 
 ### Vasi communicanti
