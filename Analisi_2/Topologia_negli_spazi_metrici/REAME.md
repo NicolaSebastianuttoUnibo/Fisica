@@ -7,7 +7,8 @@ Topologia $\to$aperto/chiuso
 spazi metrici $\to$distanza fra punti nell'insieme X
 
 * Def:(spazio metrico) 
-$(X,d) d:X\times X \to \left[0,\infty \right[$
+$(X,d) con d:X\times X \to [0,\infty [$
+
 con le seguenti proprietà
 $\forall x,y,z \in \mathbb{R}$
 1. $d(x,y)=0 \Leftrightarrow x=y$
@@ -23,7 +24,14 @@ $X=\mathbb{R}; d(x,y)=|x-y|; \mathbb{R} spazio euclideo$
 * Esempi
 $
 \begin{enumerate}
-\item X= \mathbb{R}^n=\{\underline{a}\};
+\item X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,...,n\};
+\item \displaystyle a) d_1 (\underline{x},\underline{y}=\sum_{i=1}^{n}|x_i-y_i|) 
+\item \displaystyle b) d_2 (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^2\right)^{1/2}) 
+\item \displaystyle c) d_p (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) 
+\item \displaystyle d) d_{\infty} (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) 
+
+
+
 \end{enumerate}
 
 $
