@@ -38,8 +38,14 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 (d) $\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq i \leq n}{\max}$
 
-(e) $$S(\underline{x},\underline{y})=\begin{cases}0 & \quad \underline{x}=\underline{y}\\
-1 & \quad \underline{x}\neq \underline{y}\end{cases}$$
+(e) 
+$$
+S(\underline{x},\underline{y})=
+\begin{cases}
+0 & \quad \underline{x}=\underline{y}\\ 
+1 & \quad \underline{x}\neq \underline{y}\end{cases}
+\end{cases}
+$$
 
  Ora verifichiamo gli spazi mettrici a,d,e
 
