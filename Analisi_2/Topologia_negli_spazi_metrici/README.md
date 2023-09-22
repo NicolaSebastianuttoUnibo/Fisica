@@ -164,8 +164,7 @@ immaginati una sfera centrato in $(x,y)$ di raggio $r$ SENZA CONTORNO
 - 
 prendiamo lo spazio metrico $d_1\text{;}\quad X=\mathbb{R}^2\text{;}\quad \underline{x}=(0,0)\text{;}\quad \underline{x_0}=(x_1,x_2)$
 
-
-$d(\underline{x},0)$
+$d(\underline{x},0)=|x_1|+|x_2|<r$
 immaginati un rombo di raggio di $2r$ centrato in origine
 
 - 
