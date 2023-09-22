@@ -42,6 +42,9 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 
 
+
+
+
 $$
 f(x)=
 \begin{cases}
@@ -49,11 +52,15 @@ f(x)=
 0 & \quad \text{otherwise}
 \end{cases}
 $$
+
+
+
+
  Ora verifichiamo gli spazi mettrici a,d,e
 
  **proprietà (1)**
 
-(a) $\sum_ |x_i-y_i|=0 |\Leftrightarrow |x_i-y_i|=0\forall i=1,...,n \Leftrightarrrow x_i=y_iforall i=1,...,n$
+(a) $\sum_ |x_i-y_i|=0 |\Leftrightarrow |x_i-y_i|=0\forall i=1,...,n \Leftrightarrow x_i=y_iforall i=1,...,n$
 
 (d) $\underset{1 \leq i \leq n}{\max}|x_i-y_i|=0 \Leftrightarrow  |x_j-y_j| \forall j \Leftrightarrow x_y=y_j \forall j=1,...,n$
 
