@@ -32,7 +32,7 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 (c) $\displaystyle  d_p (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) $
 
-(d) $\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq j \leq n}{\max}$
+(d) $\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq i \leq n}{\max}$
 
-(e) $S(\underline{x},\underline{y})=\begin{cases} 0& \text{se } \underline{x}=\underline{y}\\ 1& \text{se } \underline{x}\neq \underline{y}\end{cases}$
+(e) $$S(\underline{x},\underline{y})=\begin{cases} 0& \text{se } \underline{x}=\underline{y}\\ 1& \text{se } \underline{x}\neq \underline{y}\end{cases}$$
 
