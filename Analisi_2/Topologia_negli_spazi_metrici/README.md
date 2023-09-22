@@ -7,9 +7,6 @@ Topologia $\to$aperto/chiuso
 spazi metrici $\to$distanza fra punti nell'insieme X
 
 
-$$f(x)=\begin{cases}1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\
-0 & \quad \text{otherwise}\end{cases}$$
-
 ' Def:(spazio metrico) '
 $(X,d)$ con d: $X\times X \Rightarrow [0,\infty ]$
 
@@ -46,7 +43,7 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 
 $$
-f(x)=
+S=
 \begin{cases}
 1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 
 0 & \quad \text{otherwise}
@@ -83,7 +80,10 @@ per definizione
  $\sum_ |x_i-y_i|=\sum_ |x_i-z_i+z_i-y_i| \le \sum_ (|x_i-z_i|+|z_i-y_i|)\le sum_ |x_i-z_i|+sum_ |z_i-y_i|$
 
  (d) 
- $ |x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{|x_i-z_i|}}+ \underset{\underset{1 \leq j \leq n}{\max |z_j-y_j|}}{\underline{|z_i-y_i|}}$
+ |x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{|x_i-z_i|}}+ \underset{\underset{1 \leq j \leq n}{\max |z_j-y_j|}}{\underline{|z_i-y_i|}}
+
+$|x_i-y_i| \le \underset{a}{b}$
+
 
  $\forall i |x_i-y_i| \le d_{\infty} (\underline{x},\underline{z})+d_{\infty} (\underline{z},\underline{y})$
 
