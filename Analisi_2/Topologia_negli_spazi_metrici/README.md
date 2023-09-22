@@ -40,8 +40,8 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 $$
 S(\underline{x},\underline{y})=
 \begin{cases}
-1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 
-0 & \quad \text{otherwise}
+0 & x=y\\ 
+1 & x=/=y
 \end{cases}
 $$
 
@@ -75,9 +75,8 @@ per definizione
  $\sum_ |x_i-y_i|=\sum_ |x_i-z_i+z_i-y_i| \le \sum_ (|x_i-z_i|+|z_i-y_i|)\le sum_ |x_i-z_i|+sum_ |z_i-y_i|$
 
  (d) 
- |x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{|x_i-z_i|}}+ \underset{\underset{1 \leq j \leq n}{\max |z_j-y_j|}}{\underline{|z_i-y_i|}}
 
-$|x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{|x_i-z_i|}}$
+$|x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{|x_i-z_i|}}+\underset{\underset{1 \leq j \leq n}{\max |z_j-y_j|}}{\underline{|z_i-y_i|}}$
 
 
  $\forall i |x_i-y_i| \le d_{\infty} (\underline{x},\underline{z})+d_{\infty} (\underline{z},\underline{y})$
