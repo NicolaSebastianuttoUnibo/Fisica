@@ -180,8 +180,8 @@ $A \in X \text{è aperto se }\forall x \in A  \exists x>0 t.c. B_r(x) \subseteq 
 
 $y \in B_r(x_0) \quad d(x_0,y)=\delta<x \overline{r} =\min {\delta, r-\delta}$
 
-$$B_{\overline{r}}(y) \quad d(z_0,z) \le d(x_0,y)+d(y,z) \le \delta + \overline{r} \le
- \begin{cases}
+$B_{\overline{r}}(y) \quad d(z_0,z) \le d(x_0,y)+d(y,z) \le \delta + \overline{r} \le&
+ $$\begin{cases}
 \delta +r -\delta-r-r \quad \overline{r}=r-\delta
 r \quad  \overline{r}=\delta \le frac{\delta}{2}
 \end{cases}
