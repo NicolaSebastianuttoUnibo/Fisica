@@ -34,6 +34,6 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 (d) $\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq i \leq n}{\max}$
 
-(e) $(\underline{x},\underline{y})=\curlytwo{-\log(p) \tab \text{if }y=1}{-\log(1-p) \tab \text{otherwise.}}$
+(e) $(\underline{x},\underline{y})=\begin{equation}\begin{cases}\end{cases}\end{equation}$
 
-  
+ 
