@@ -49,7 +49,8 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 (d) $\underset{1 \leq i \leq n}{\max}|x_i-y_i|=0 \Leftrightarrow  |x_j-y_j| \forall j \Leftrightarrow x_y=y_j \forall j=1,...,n$
 
-(e) per definizione
+(e)
+per definizione
 
  **proprietà (2)**
 
