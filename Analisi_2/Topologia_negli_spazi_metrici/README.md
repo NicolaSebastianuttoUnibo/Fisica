@@ -40,8 +40,8 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 $$
 S(\underline{x},\underline{y})=
 \begin{cases}
-0 & x=y\\ 
-1 & x=/=y
+0 & \underline{x}=\underline{y}\\ 
+1 & \underline{x}\neq \underline{y}
 \end{cases}
 $$
 
