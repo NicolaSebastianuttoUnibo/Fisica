@@ -81,4 +81,4 @@ $|x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{
 
  $\forall i |x_i-y_i| \le d_{\infty} (\underline{x},\underline{z})+d_{\infty} (\underline{z},\underline{y})$
 
-$d_{\infty} (\underline{x},\underline{y})=\underset{1  \le i \le n}{\max}|x_i-y_i|\le d_{\infty}(\underline{x},\underline{z})+d_{\infty}(\underline{z},\underline{y})$
+$d_{\infty} (\underline{x},\underline{y})=\underset{1  \le i \le n}{\max}|x_i-y_i|\le d_{\infty}(\underline{x},\underline{z})+d_{\infty}(\underline{z},\underline{y})$ 
