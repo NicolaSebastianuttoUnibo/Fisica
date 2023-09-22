@@ -7,13 +7,7 @@ Topologia $\to$aperto/chiuso
 spazi metrici $\to$distanza fra punti nell'insieme X
 
 
-$
-f(x)=$
-\begin{cases}
-1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 
-0 & \quad \text{otherwise}
-\end{cases}$
-$
+$f(x)=\begin{cases}1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 0 & \quad \text{otherwise}\end{cases}$$
 
 ' Def:(spazio metrico) '
 $(X,d)$ con d: $X\times X \Rightarrow [0,\infty [$
