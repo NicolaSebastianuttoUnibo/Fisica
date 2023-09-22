@@ -24,7 +24,7 @@ $\forall x,y,z \in \mathbb{R}$
 2. $d(x,y)=d(y,x)$
 3. $d(x,y) \le d(x,z)+d(z,x)$
 
-** Modello **
+** Modello ** 
 $X=\mathbb{R}; d(x,y)=|x-y|; \mathbb{R}$ spazio euclideo
 1. $|x-y|=0 \Leftrightarrow x-y=0 \Leftrightarrow x=y$
 2. $|x-y|=|y-x|$
