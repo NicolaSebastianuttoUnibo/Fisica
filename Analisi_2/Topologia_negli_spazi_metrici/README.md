@@ -7,7 +7,7 @@ Topologia $\to$aperto/chiuso
 spazi metrici $\to$distanza fra punti nell'insieme X
 
 
-' Def:(spazio metrico) '
+**Def:(spazio metrico)**
 $(X,d)$ con d: $X\times X \Rightarrow [0,\infty ]$
 
 con le seguenti proprietà
@@ -27,23 +27,18 @@ $X=\mathbb{R}; d(x,y)=|x-y|; \mathbb{R}$ spazio euclideo
 
 $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,...,n\};$
 
-(a) $\displaystyle  d_1 (\underline{x},\underline{y}=\sum_{i=1}^{n}|x_i-y_i|) $
+(a) $$\displaystyle  d_1 (\underline{x},\underline{y}=\sum_{i=1}^{n}|x_i-y_i|) $$
 
-(b) $\displaystyle  d_2 (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^2\right)^{1/2})$ 
+(b) $$\displaystyle  d_2 (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^2\right)^{1/2})$$ 
 
-(c) $\displaystyle  d_p (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) $
+(c) $$\displaystyle  d_p (\underline{x},\underline{y}=\left(\sum_{i=1}^{n}(x_i-y_i)^p\right)^{1/p}) $$
 
-(d) $\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq i \leq n}{\max}$
+(d) $$\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq i \leq n}{\max}$$
 
 (e) 
 
-
-
-
-
-
 $$
-S=
+S(\underline{x},\underline{y})=
 \begin{cases}
 1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 
 0 & \quad \text{otherwise}
@@ -82,7 +77,7 @@ per definizione
  (d) 
  |x_i-y_i| \le \underset{\underset{1 \leq i \leq n}{\max |x_i-z_i|}}{\underline{|x_i-z_i|}}+ \underset{\underset{1 \leq j \leq n}{\max |z_j-y_j|}}{\underline{|z_i-y_i|}}
 
-$|x_i-y_i| \le \underset{a}{b}$
+$|x_i-y_i| \le \underset{\underset{a}{b}}{b}$
 
 
  $\forall i |x_i-y_i| \le d_{\infty} (\underline{x},\underline{z})+d_{\infty} (\underline{z},\underline{y})$
