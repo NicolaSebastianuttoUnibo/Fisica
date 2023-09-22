@@ -137,13 +137,13 @@ $x={f:[a,b] \rightarrow \mathbb{R} \text{continua} } \quad f,g \in X$
 ### Topologia
 
 **Def:(topologia)**
-  $X$ insieme $\thau$ una famiglia di sottoinsieme di $X$, la coppia $(X,\thau)$ è una topologia se ha le seguenti proprietà:
+  $X$ insieme $\tau$ una famiglia di sottoinsieme di $X$, la coppia $(X,\tau)$ è una topologia se ha le seguenti proprietà:
 
-  1. $X,\varnothing \in \thau$
-  2. $A_{\alpha},A_{\beta} \in \thau \forall \alpha, \beta \Rightarrow _{\alpha}\cup A_{\beta} \in \thau$
-  3. $A_{\alpha},A_{\beta} \in \thau \forall \alpha, \beta \Rightarrow _{\alpha}\cap A_{\beta} \in \thau$
+  1. $X,\varnothing \in \tau$
+  2. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow _{\alpha}\cup A_{\beta} \in \tau$
+  3. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow _{\alpha}\cap A_{\beta} \in \tau$
 
-In tal caso gli elemnti $\thau$ si chiamano aperti (rispetto alla topologia $(X,\thau)$)
+In tal caso gli elemnti $\tau$ si chiamano aperti (rispetto alla topologia $(X,\tau)$)
 
   Per associare una topologia ad uno spazio  metrico  **prima** dobbiamo definire l'inotrno circolare aperto
 
