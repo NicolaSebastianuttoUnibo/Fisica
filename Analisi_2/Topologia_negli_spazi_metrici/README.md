@@ -19,13 +19,13 @@ $\forall x,y,z \in \mathbb{R}$
 2. $d(x,y)=d(y,x)$
 3. $d(x,y) \le d(x,z)+d(z,x)$
 
-** Modello ** 
+**Modello** 
 $X=\mathbb{R}; d(x,y)=|x-y|; \mathbb{R}$ spazio euclideo
 1. $|x-y|=0 \Leftrightarrow x-y=0 \Leftrightarrow x=y$
 2. $|x-y|=|y-x|$
 3. $|x-y|=|x-z+z-y| \le|x-z|+|z-y|$
 
-** Esempi
+**Esempi**
 
 
 $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,...,n\};$
@@ -38,6 +38,7 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 (d) $\displaystyle  d_{\infty} (\underline{x},\underline{y})= \underset{1 \leq i \leq n}{\max}$
 
-(e) $(\underline{x},\underline{y})=\begin{equation}\begin{cases}\end{cases}\end{equation}$
+(e) $$S(\underline{x},\underline{y})=\begin{cases}0 & \quad \underline{x},\underline{y}\\
+1 & \quad \underline{x}\neq \underline{y}$$
 
  
