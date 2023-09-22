@@ -143,7 +143,7 @@ $x={f:[a,b] \rightarrow \mathbb{R} \text{continua} } \quad f,g \in X$
   2. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow A_{\alpha}\cup A_{\beta} \in \tau$
   3. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow A_{\alpha}\cap A_{\beta} \in \tau$
 
-In tal caso gli elemnti $\tau$ si chiamano aperti (rispetto alla topologia $(X,\tau)$)
+In tal caso gli elemnti $\tau$ si chiamano aperti (rispetto alla topologia $(X,\tau )$)
 
   Per associare una topologia ad uno spazio  metrico  **prima** dobbiamo definire l'inotrno circolare aperto
 
@@ -155,7 +155,7 @@ $B_{r_0}(x)={x \in X : d(x,x_0)<r>}$
 
 Esempi:
 - 
-prendiamo lo spazio metrico $d_2$; $X=\mathbb{R}^2; $\underline{x}=(x_1,x_2)$; $\underline{x_0}=(x_1^0,x_2^0)$
+prendiamo lo spazio metrico $d_2$; $X=\mathbb{R}^2$; $\underline{x}=(x_1,x_2)$; $\underline{x_0}=(x_1^0,x_2^0)$
 
 $\mathbb{B}_{x_0}(r)={x \in mathbb{R}^2:(x_1-x_2^0)^2+(x_2-x_1^0)^2<r^2>}$
 
