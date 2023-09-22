@@ -162,7 +162,7 @@ $\mathbb{B}_{x_0}(r)={x \in \mathbb{R}^2:(x_1-x_2^0)^2+(x_2-x_1^0)^2<r^2>}$
 immaginati una sfera centrato in $(x,y)$ di raggio $r$ SENZA CONTORNO
 
 - 
-prendiamo lo spazio metrico $d_1$; $X=\mathbb{R}^2$; $\underline{x}=(0,0)$; $\underline{x_0}=(x_1,x_2)$
+prendiamo lo spazio metrico $d_1\text{;}\quad X=\mathbb{R}^2\text{;}\quad \underline{x}=(0,0)\text{;}\quad \underline{x_0}=(x_1,x_2)$
 
 
 $d(\underline{x},0)=|x_1|+|x_2|<r$
