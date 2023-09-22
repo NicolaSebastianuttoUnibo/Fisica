@@ -36,3 +36,4 @@ $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,..
 
 (e) $S(\underline{x},\underline{y})=\begin{cases}\end{cases}$
 
+ 
