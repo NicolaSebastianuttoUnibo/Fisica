@@ -157,15 +157,15 @@ Esempi:
 - 
 prendiamo lo spazio metrico $d_2$; $X=\mathbb{R}^2$; $\underline{x}=(x_1,x_2)$; $\underline{x_0}=(x_1^0,x_2^0)$
 
-$\mathbb{B}_{x_0}(r)={x \in mathbb{R}^2:(x_1-x_2^0)^2+(x_2-x_1^0)^2<r^2>}$
+$\mathbb{B}_{x_0}(r)={x \in \mathbb{R}^2:(x_1-x_2^0)^2+(x_2-x_1^0)^2<r^2>}$
 
 immaginati una sfera centrato in $(x,y)$ di raggio $r$ SENZA CONTORNO
 
 - 
 prendiamo lo spazio metrico $d_1$; $X=\mathbb{R}^2$; $\underline{x}=(0,0)$; $\underline{x_0}=(x_1,x_2)$
 
-$d(\underline{x},0)=|x_1|+|x_2|<r$
 
+$d(\underline{x},0)=|x_1|+|x_2|<r$
 immaginati un rombo di raggio di $2r$ centrato in origine
 
 - 
