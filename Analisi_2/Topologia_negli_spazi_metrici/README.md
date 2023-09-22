@@ -6,7 +6,16 @@ Topologia negli spazi metrici
 Topologia $\to$aperto/chiuso
 spazi metrici $\to$distanza fra punti nell'insieme X
 
-** Def:(spazio metrico) **
+
+$$
+f(x)=
+\begin{cases}
+1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 
+0 & \quad \text{otherwise}
+\end{cases}
+$$
+
+' Def:(spazio metrico) '
 $(X,d)$ con d: $X\times X \Rightarrow [0,\infty [$
 
 con le seguenti proprietà
@@ -21,7 +30,7 @@ $X=\mathbb{R}; d(x,y)=|x-y|; \mathbb{R}$ spazio euclideo
 2. $|x-y|=|y-x|$
 3. $|x-y|=|x-z+z-y| \le|x-z|+|z-y|$
 
-** Esempi **
+** Esempi
 
 
 $X= \mathbb{R}^n=\{\underline{x}=(x_1,...,x_n):x_i \in \mathbb{R} \forall i=1,...,n\};$
