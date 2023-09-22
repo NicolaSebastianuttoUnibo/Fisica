@@ -140,8 +140,8 @@ $x={f:[a,b] \rightarrow \mathbb{R} \text{continua} } \quad f,g \in X$
   $X$ insieme $\tau$ una famiglia di sottoinsieme di $X$, la coppia $(X,\tau)$ è una topologia se ha le seguenti proprietà:
 
   1. $X,\varnothing \in \tau$
-  2. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow _{\alpha}\cup A_{\beta} \in \tau$
-  3. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow _{\alpha}\cap A_{\beta} \in \tau$
+  2. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow A_{\alpha}\cup A_{\beta} \in \tau$
+  3. $A_{\alpha},A_{\beta} \in \tau \forall \alpha, \beta \Rightarrow A_{\alpha}\cap A_{\beta} \in \tau$
 
 In tal caso gli elemnti $\tau$ si chiamano aperti (rispetto alla topologia $(X,\tau)$)
 
@@ -155,21 +155,21 @@ $B_{r_0}(x)={x \in X : d(x,x_0)<r>}$
 
 Esempi:
 - 
-prendiamo lo spazio metrico $d_2$; $X=mathbb{R}^2; $\underline{x}=(x_1,x_2)$; $\underline{x_0}=(x_1^0,x_2^0)$
+prendiamo lo spazio metrico $d_2$; $X=\mathbb{R}^2; $\underline{x}=(x_1,x_2)$; $\underline{x_0}=(x_1^0,x_2^0)$
 
-$mathbb{B}_{x_0}(r)={x \in mathbb{R}^2:(x_1-x_2^0)^2+(x_2-x_1^0)^2<r^2>}$
+$\mathbb{B}_{x_0}(r)={x \in mathbb{R}^2:(x_1-x_2^0)^2+(x_2-x_1^0)^2<r^2>}$
 
 immaginati una sfera centrato in $(x,y)$ di raggio $r$ SENZA CONTORNO
 
 - 
-prendiamo lo spazio metrico $d_1$; $X=mathbb{R}^2; $\underline{x}=(0,0)$; $\underline{x_0}=(x_1,x_2)$
+prendiamo lo spazio metrico $d_1$; $X=\mathbb{R}^2$; $\underline{x}=(0,0)$; $\underline{x_0}=(x_1,x_2)$
 
 $d(\underline{x},0)=|x_1|+|x_2|<r$
 
 immaginati un rombo di raggio di $2r$ centrato in origine
 
 - 
-prendiamo lo spazio metrico $d_{\infty}=\max {|x_1|,|x_2|}$; $X=mathbb{R}^2; $
+prendiamo lo spazio metrico $d_{\infty}=\max {|x_1|,|x_2|}$; $X=\mathbb{R}^2; $
 
 immaginati un quadrato di lato $2r$ pieno
 
